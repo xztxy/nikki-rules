@@ -5,14 +5,15 @@ rules:
   - RULE-SET,custom_direct_payments,DIRECT
   - RULE-SET,custom_loc_hk_media,loc
   - RULE-SET,custom_loc_sites,loc
-  - DOMAIN-SUFFIX,qichiyu.com,🚀 默认代理
-  - RULE-SET,proxylite,🚀 默认代理
   - RULE-SET,custom_proxy_ai,🤖 ChatGPT
   - RULE-SET,custom_proxy_dev,👨🏿‍💻 GitHub
-  - RULE-SET,custom_proxy_media,🌐 全部节点
-  - RULE-SET,custom_proxy_adult,🌐 全部节点
-  - RULE-SET,custom_proxy_payments,🌐 全部节点
-  - RULE-SET,custom_proxy_misc,🌐 全部节点
+  - RULE-SET,custom_proxy_media,🚀 默认代理
+  - RULE-SET,custom_proxy_adult,🚀 默认代理
+  - RULE-SET,custom_proxy_payments,💶 PayPal
+  - RULE-SET,custom_proxy_social,🚀 默认代理
+  - RULE-SET,custom_proxy_misc,🚀 默认代理
+  - DOMAIN-SUFFIX,qichiyu.com,🚀 默认代理
+  - RULE-SET,proxylite,🚀 默认代理
   - RULE-SET,ai,🤖 ChatGPT
   - RULE-SET,github_domain,👨🏿‍💻 GitHub
   - RULE-SET,youtube_domain,📹 YouTube
@@ -69,4 +70,5 @@ rule-providers:
   custom_proxy_media: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/proxy/media.list" }
   custom_proxy_adult: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/proxy/adult.list" }
   custom_proxy_payments: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/proxy/payments.list" }
+  custom_proxy_social: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/proxy/social.list" }
   custom_proxy_misc: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/proxy/misc.list" }

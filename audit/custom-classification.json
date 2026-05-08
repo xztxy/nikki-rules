@@ -6,7 +6,7 @@
     "no_resolve": "0",
     "category": "custom_loc_hk_media",
     "target": "loc",
-    "reason": "HK/TVB media"
+    "reason": "HK/TVB media domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -15,7 +15,7 @@
     "no_resolve": "0",
     "category": "custom_loc_hk_media",
     "target": "loc",
-    "reason": "HK/TVB media"
+    "reason": "HK/TVB media domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -24,7 +24,7 @@
     "no_resolve": "0",
     "category": "custom_loc_hk_media",
     "target": "loc",
-    "reason": "HK/TVB media"
+    "reason": "HK/TVB media domain"
   },
   {
     "type": "DOMAIN",
@@ -33,7 +33,7 @@
     "no_resolve": "0",
     "category": "custom_loc_hk_media",
     "target": "loc",
-    "reason": "HK/TVB media"
+    "reason": "HK/TVB media domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -42,16 +42,16 @@
     "no_resolve": "0",
     "category": "custom_loc_hk_media",
     "target": "loc",
-    "reason": "HK/TVB media"
+    "reason": "HK/TVB media domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
     "matcher": "discord",
     "node": "loc",
     "no_resolve": "0",
-    "category": "custom_proxy_misc",
-    "target": "🌐 全部节点",
-    "reason": "social/messaging by domain"
+    "category": "custom_proxy_social",
+    "target": "🚀 默认代理",
+    "reason": "social/messaging domain"
   },
   {
     "type": "DOMAIN",
@@ -60,7 +60,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -69,7 +69,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -78,7 +78,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -87,7 +87,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -96,7 +96,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -105,7 +105,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -114,7 +114,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_ai",
     "target": "🤖 ChatGPT",
-    "reason": "AI/model tooling"
+    "reason": "AI/model domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -123,7 +123,7 @@
     "no_resolve": "0",
     "category": "custom_loc_sites",
     "target": "loc",
-    "reason": "manual loc"
+    "reason": "manual loc domain"
   },
   {
     "type": "DOMAIN",
@@ -132,7 +132,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -141,7 +141,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -150,7 +150,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -159,7 +159,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -168,7 +168,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -177,7 +177,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -186,7 +186,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -195,7 +195,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -204,7 +204,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -213,16 +213,16 @@
     "no_resolve": "0",
     "category": "custom_loc_sites",
     "target": "loc",
-    "reason": "manual loc"
+    "reason": "manual loc domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
     "matcher": "whatsapp",
     "node": "🌐 全部节点",
     "no_resolve": "0",
-    "category": "custom_proxy_misc",
-    "target": "🌐 全部节点",
-    "reason": "misc proxy"
+    "category": "custom_proxy_social",
+    "target": "🚀 默认代理",
+    "reason": "social/messaging domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -231,7 +231,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_ai",
     "target": "🤖 ChatGPT",
-    "reason": "AI/model tooling by domain"
+    "reason": "AI/model domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -240,7 +240,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_ai",
     "target": "🤖 ChatGPT",
-    "reason": "AI/model tooling"
+    "reason": "AI/model domain"
   },
   {
     "type": "DOMAIN",
@@ -249,7 +249,7 @@
     "no_resolve": "0",
     "category": "custom_loc_sites",
     "target": "loc",
-    "reason": "manual loc"
+    "reason": "manual loc domain"
   },
   {
     "type": "DOMAIN",
@@ -258,7 +258,7 @@
     "no_resolve": "0",
     "category": "custom_loc_sites",
     "target": "loc",
-    "reason": "manual loc"
+    "reason": "manual loc domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -267,7 +267,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_ai",
     "target": "🤖 ChatGPT",
-    "reason": "AI/model tooling by domain"
+    "reason": "AI/model domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -276,7 +276,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_ai",
     "target": "🤖 ChatGPT",
-    "reason": "AI/model tooling"
+    "reason": "AI/model domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -285,7 +285,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_ai",
     "target": "🤖 ChatGPT",
-    "reason": "AI/model tooling"
+    "reason": "AI/model domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -294,7 +294,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_ai",
     "target": "🤖 ChatGPT",
-    "reason": "AI/model tooling"
+    "reason": "AI/model domain"
   },
   {
     "type": "DOMAIN",
@@ -303,7 +303,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_dev",
     "target": "👨🏿‍💻 GitHub",
-    "reason": "dev/infrastructure"
+    "reason": "developer/infrastructure domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -312,7 +312,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_dev",
     "target": "👨🏿‍💻 GitHub",
-    "reason": "dev/infrastructure"
+    "reason": "developer/infrastructure domain"
   },
   {
     "type": "DOMAIN",
@@ -321,7 +321,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN",
@@ -330,7 +330,7 @@
     "no_resolve": "0",
     "category": "custom_direct_trackers",
     "target": "DIRECT",
-    "reason": "direct tracker/CDN"
+    "reason": "direct tracker/CDN domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -338,8 +338,8 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🌐 全部节点",
-    "reason": "adult/media by domain"
+    "target": "🚀 默认代理",
+    "reason": "adult/media domain"
   },
   {
     "type": "DOMAIN",
@@ -348,7 +348,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_dev",
     "target": "👨🏿‍💻 GitHub",
-    "reason": "dev/infrastructure"
+    "reason": "developer/infrastructure domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -356,8 +356,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_media",
-    "target": "🌐 全部节点",
-    "reason": "media resource"
+    "target": "🚀 默认代理",
+    "reason": "media resource domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -365,8 +365,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_media",
-    "target": "🌐 全部节点",
-    "reason": "media resource"
+    "target": "🚀 默认代理",
+    "reason": "media resource domain"
   },
   {
     "type": "DOMAIN",
@@ -374,8 +374,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_media",
-    "target": "🌐 全部节点",
-    "reason": "media resource"
+    "target": "🚀 默认代理",
+    "reason": "media resource domain"
   },
   {
     "type": "DOMAIN",
@@ -383,8 +383,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_misc",
-    "target": "🌐 全部节点",
-    "reason": "misc proxy"
+    "target": "🚀 默认代理",
+    "reason": "misc proxy domain"
   },
   {
     "type": "DOMAIN",
@@ -393,7 +393,7 @@
     "no_resolve": "0",
     "category": "custom_loc_sites",
     "target": "loc",
-    "reason": "manual loc"
+    "reason": "manual loc domain"
   },
   {
     "type": "DOMAIN",
@@ -402,7 +402,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_dev",
     "target": "👨🏿‍💻 GitHub",
-    "reason": "dev/infrastructure"
+    "reason": "developer/infrastructure domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -411,7 +411,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_dev",
     "target": "👨🏿‍💻 GitHub",
-    "reason": "dev/infrastructure"
+    "reason": "developer/infrastructure domain"
   },
   {
     "type": "DOMAIN",
@@ -420,7 +420,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_dev",
     "target": "👨🏿‍💻 GitHub",
-    "reason": "dev/infrastructure"
+    "reason": "developer/infrastructure domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -428,8 +428,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_media",
-    "target": "🌐 全部节点",
-    "reason": "media resource"
+    "target": "🚀 默认代理",
+    "reason": "media resource domain"
   },
   {
     "type": "DOMAIN",
@@ -438,7 +438,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_dev",
     "target": "👨🏿‍💻 GitHub",
-    "reason": "dev/infrastructure"
+    "reason": "developer/infrastructure domain"
   },
   {
     "type": "DOMAIN",
@@ -447,7 +447,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_dev",
     "target": "👨🏿‍💻 GitHub",
-    "reason": "dev/infrastructure"
+    "reason": "developer/infrastructure domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -455,8 +455,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🌐 全部节点",
-    "reason": "adult/media"
+    "target": "🚀 默认代理",
+    "reason": "adult/media domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -464,8 +464,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🌐 全部节点",
-    "reason": "adult/media"
+    "target": "🚀 默认代理",
+    "reason": "adult/media domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -474,7 +474,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_dev",
     "target": "👨🏿‍💻 GitHub",
-    "reason": "dev/infrastructure"
+    "reason": "developer/infrastructure domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -482,8 +482,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🌐 全部节点",
-    "reason": "adult/media"
+    "target": "🚀 默认代理",
+    "reason": "adult/media domain"
   },
   {
     "type": "DOMAIN",
@@ -491,8 +491,8 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🌐 全部节点",
-    "reason": "adult/media by domain"
+    "target": "🚀 默认代理",
+    "reason": "adult/media domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -500,8 +500,8 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🌐 全部节点",
-    "reason": "adult/media by domain"
+    "target": "🚀 默认代理",
+    "reason": "adult/media domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -510,7 +510,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_dev",
     "target": "👨🏿‍💻 GitHub",
-    "reason": "dev/infrastructure"
+    "reason": "developer/infrastructure domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -518,8 +518,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🌐 全部节点",
-    "reason": "adult/media"
+    "target": "🚀 默认代理",
+    "reason": "adult/media domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -527,8 +527,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🌐 全部节点",
-    "reason": "adult/media"
+    "target": "🚀 默认代理",
+    "reason": "adult/media domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -536,8 +536,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🌐 全部节点",
-    "reason": "adult/media"
+    "target": "🚀 默认代理",
+    "reason": "adult/media domain"
   },
   {
     "type": "DOMAIN-KEYWORD",
@@ -545,8 +545,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🌐 全部节点",
-    "reason": "adult/media"
+    "target": "🚀 默认代理",
+    "reason": "adult/media domain"
   },
   {
     "type": "DOMAIN",
@@ -554,8 +554,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_misc",
-    "target": "🌐 全部节点",
-    "reason": "misc proxy"
+    "target": "🚀 默认代理",
+    "reason": "misc proxy domain"
   },
   {
     "type": "DOMAIN",
@@ -563,8 +563,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_misc",
-    "target": "🌐 全部节点",
-    "reason": "misc proxy"
+    "target": "🚀 默认代理",
+    "reason": "misc proxy domain"
   },
   {
     "type": "DOMAIN",
@@ -573,7 +573,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_ai",
     "target": "🤖 ChatGPT",
-    "reason": "AI/model tooling"
+    "reason": "AI/model domain"
   },
   {
     "type": "DOMAIN",
@@ -582,7 +582,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_ai",
     "target": "🤖 ChatGPT",
-    "reason": "AI/model tooling"
+    "reason": "AI/model domain"
   },
   {
     "type": "DOMAIN",
@@ -591,7 +591,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_ai",
     "target": "🤖 ChatGPT",
-    "reason": "AI/model tooling"
+    "reason": "AI/model domain"
   },
   {
     "type": "DOMAIN",
@@ -600,7 +600,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_ai",
     "target": "🤖 ChatGPT",
-    "reason": "AI/model tooling"
+    "reason": "AI/model domain"
   },
   {
     "type": "DOMAIN",
@@ -609,7 +609,7 @@
     "no_resolve": "0",
     "category": "custom_proxy_ai",
     "target": "🤖 ChatGPT",
-    "reason": "AI/model tooling"
+    "reason": "AI/model domain"
   },
   {
     "type": "DOMAIN",
@@ -617,8 +617,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "🌐 全部节点",
-    "reason": "overseas payment/API"
+    "target": "💶 PayPal",
+    "reason": "payment/API domain"
   },
   {
     "type": "DOMAIN",
@@ -626,8 +626,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "🌐 全部节点",
-    "reason": "overseas payment/API"
+    "target": "💶 PayPal",
+    "reason": "payment/API domain"
   },
   {
     "type": "DOMAIN",
@@ -635,8 +635,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "🌐 全部节点",
-    "reason": "overseas payment/API"
+    "target": "💶 PayPal",
+    "reason": "payment/API domain"
   },
   {
     "type": "DOMAIN",
@@ -644,8 +644,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "🌐 全部节点",
-    "reason": "overseas payment/API"
+    "target": "💶 PayPal",
+    "reason": "payment/API domain"
   },
   {
     "type": "DOMAIN",
@@ -653,8 +653,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "🌐 全部节点",
-    "reason": "overseas payment/API"
+    "target": "💶 PayPal",
+    "reason": "payment/API domain"
   },
   {
     "type": "DOMAIN",
@@ -663,7 +663,7 @@
     "no_resolve": "0",
     "category": "custom_direct_payments",
     "target": "DIRECT",
-    "reason": "direct payment"
+    "reason": "direct payment domain"
   },
   {
     "type": "DOMAIN",
@@ -672,7 +672,7 @@
     "no_resolve": "0",
     "category": "custom_direct_payments",
     "target": "DIRECT",
-    "reason": "direct payment"
+    "reason": "direct payment domain"
   },
   {
     "type": "DOMAIN",
@@ -681,7 +681,7 @@
     "no_resolve": "0",
     "category": "custom_direct_payments",
     "target": "DIRECT",
-    "reason": "direct payment"
+    "reason": "direct payment domain"
   },
   {
     "type": "DOMAIN",
@@ -689,8 +689,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "🌐 全部节点",
-    "reason": "overseas payment/API"
+    "target": "💶 PayPal",
+    "reason": "payment/API domain"
   },
   {
     "type": "DOMAIN",
@@ -698,8 +698,8 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "🌐 全部节点",
-    "reason": "overseas payment/API"
+    "target": "💶 PayPal",
+    "reason": "payment/API domain"
   },
   {
     "type": "DOMAIN",
@@ -707,7 +707,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "🌐 全部节点",
-    "reason": "overseas payment/API"
+    "target": "💶 PayPal",
+    "reason": "payment/API domain"
   }
 ]
