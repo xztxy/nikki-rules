@@ -35,4 +35,6 @@
 1. 把 `snippets/custom-proxy-groups.yaml` 里的自定义策略组加入原来的 `proxy-groups:`。
 2. 用 `snippets/rules-and-providers.yaml` 的内容替换原来的 `rules:`、`rule-anchor:`、`rule-providers:` 三段。
 
+日常新增规则、分类对应关系和 9090 面板组说明见 [MAINTENANCE.md](MAINTENANCE.md)。
+
 这个仓库只保存规则，不保存机场订阅、节点密码或完整路由器配置。
