@@ -11,6 +11,7 @@
 - `rules/custom/loc/`: 你的自定义 `loc` 节点规则。
 - `rules/custom/proxy/`: 你的自定义代理规则，按 AI、开发、媒体、支付、社交、成人内容和杂项拆分。
 - `snippets/rules-and-providers.yaml`: 可粘贴进 `Nikkinew.yaml` 的完整 `rules` + `rule-providers` 片段。
+- `snippets/custom-proxy-groups.yaml`: 自定义规则分类对应的可选策略组，会显示在 9090 UI 里。
 - `audit/`: 本次整理的来源和分类审计。
 
 ## 自定义分类
@@ -29,6 +30,9 @@
 
 ## 使用方式
 
-在路由器的 `/etc/nikki/profiles/Nikkinew.yaml` 中，用 `snippets/rules-and-providers.yaml` 的内容替换原来的 `rules:`、`rule-anchor:`、`rule-providers:` 三段。
+在路由器的 `/etc/nikki/profiles/Nikkinew.yaml` 中：
+
+1. 把 `snippets/custom-proxy-groups.yaml` 里的自定义策略组加入原来的 `proxy-groups:`。
+2. 用 `snippets/rules-and-providers.yaml` 的内容替换原来的 `rules:`、`rule-anchor:`、`rule-providers:` 三段。
 
 这个仓库只保存规则，不保存机场订阅、节点密码或完整路由器配置。

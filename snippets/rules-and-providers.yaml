@@ -1,17 +1,17 @@
 rules:
   - RULE-SET,private_ip,直连,no-resolve
   - RULE-SET,private_domain,直连
-  - RULE-SET,custom_direct_trackers,DIRECT
-  - RULE-SET,custom_direct_payments,DIRECT
-  - RULE-SET,custom_loc_hk_media,loc
-  - RULE-SET,custom_loc_sites,loc
-  - RULE-SET,custom_proxy_ai,🤖 ChatGPT
-  - RULE-SET,custom_proxy_dev,👨🏿‍💻 GitHub
-  - RULE-SET,custom_proxy_media,🚀 默认代理
-  - RULE-SET,custom_proxy_adult,🚀 默认代理
-  - RULE-SET,custom_proxy_payments,💶 PayPal
-  - RULE-SET,custom_proxy_social,🚀 默认代理
-  - RULE-SET,custom_proxy_misc,🚀 默认代理
+  - RULE-SET,custom_direct_trackers,🎯 自定义-Tracker
+  - RULE-SET,custom_direct_payments,🎯 自定义-直连支付
+  - RULE-SET,custom_loc_hk_media,🎯 自定义-HK媒体
+  - RULE-SET,custom_loc_sites,🎯 自定义-loc站点
+  - RULE-SET,custom_proxy_ai,🎯 自定义-AI
+  - RULE-SET,custom_proxy_dev,🎯 自定义-开发
+  - RULE-SET,custom_proxy_media,🎯 自定义-媒体
+  - RULE-SET,custom_proxy_adult,🎯 自定义-Adult
+  - RULE-SET,custom_proxy_payments,🎯 自定义-支付
+  - RULE-SET,custom_proxy_social,🎯 自定义-社交
+  - RULE-SET,custom_proxy_misc,🎯 自定义-杂项
   - DOMAIN-SUFFIX,qichiyu.com,🚀 默认代理
   - RULE-SET,proxylite,🚀 默认代理
   - RULE-SET,ai,🤖 ChatGPT

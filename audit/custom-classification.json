@@ -5,7 +5,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_loc_hk_media",
-    "target": "loc",
+    "target": "🎯 自定义-HK媒体",
     "reason": "HK/TVB media domain"
   },
   {
@@ -14,7 +14,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_loc_hk_media",
-    "target": "loc",
+    "target": "🎯 自定义-HK媒体",
     "reason": "HK/TVB media domain"
   },
   {
@@ -23,7 +23,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_loc_hk_media",
-    "target": "loc",
+    "target": "🎯 自定义-HK媒体",
     "reason": "HK/TVB media domain"
   },
   {
@@ -32,7 +32,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_loc_hk_media",
-    "target": "loc",
+    "target": "🎯 自定义-HK媒体",
     "reason": "HK/TVB media domain"
   },
   {
@@ -41,7 +41,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_loc_hk_media",
-    "target": "loc",
+    "target": "🎯 自定义-HK媒体",
     "reason": "HK/TVB media domain"
   },
   {
@@ -50,7 +50,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_proxy_social",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-社交",
     "reason": "social/messaging domain"
   },
   {
@@ -59,7 +59,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -68,7 +68,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -77,7 +77,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -86,7 +86,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -95,7 +95,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -104,7 +104,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -113,7 +113,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_ai",
-    "target": "🤖 ChatGPT",
+    "target": "🎯 自定义-AI",
     "reason": "AI/model domain"
   },
   {
@@ -122,7 +122,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_loc_sites",
-    "target": "loc",
+    "target": "🎯 自定义-loc站点",
     "reason": "manual loc domain"
   },
   {
@@ -131,7 +131,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -140,7 +140,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -149,7 +149,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -158,7 +158,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -167,7 +167,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -176,7 +176,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -185,7 +185,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -194,7 +194,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -203,7 +203,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -212,7 +212,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_loc_sites",
-    "target": "loc",
+    "target": "🎯 自定义-loc站点",
     "reason": "manual loc domain"
   },
   {
@@ -221,7 +221,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_social",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-社交",
     "reason": "social/messaging domain"
   },
   {
@@ -230,7 +230,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_proxy_ai",
-    "target": "🤖 ChatGPT",
+    "target": "🎯 自定义-AI",
     "reason": "AI/model domain"
   },
   {
@@ -239,7 +239,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_ai",
-    "target": "🤖 ChatGPT",
+    "target": "🎯 自定义-AI",
     "reason": "AI/model domain"
   },
   {
@@ -248,7 +248,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_loc_sites",
-    "target": "loc",
+    "target": "🎯 自定义-loc站点",
     "reason": "manual loc domain"
   },
   {
@@ -257,7 +257,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_loc_sites",
-    "target": "loc",
+    "target": "🎯 自定义-loc站点",
     "reason": "manual loc domain"
   },
   {
@@ -266,7 +266,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_proxy_ai",
-    "target": "🤖 ChatGPT",
+    "target": "🎯 自定义-AI",
     "reason": "AI/model domain"
   },
   {
@@ -275,7 +275,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_ai",
-    "target": "🤖 ChatGPT",
+    "target": "🎯 自定义-AI",
     "reason": "AI/model domain"
   },
   {
@@ -284,7 +284,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_ai",
-    "target": "🤖 ChatGPT",
+    "target": "🎯 自定义-AI",
     "reason": "AI/model domain"
   },
   {
@@ -293,7 +293,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_ai",
-    "target": "🤖 ChatGPT",
+    "target": "🎯 自定义-AI",
     "reason": "AI/model domain"
   },
   {
@@ -302,7 +302,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_dev",
-    "target": "👨🏿‍💻 GitHub",
+    "target": "🎯 自定义-开发",
     "reason": "developer/infrastructure domain"
   },
   {
@@ -311,7 +311,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_dev",
-    "target": "👨🏿‍💻 GitHub",
+    "target": "🎯 自定义-开发",
     "reason": "developer/infrastructure domain"
   },
   {
@@ -320,7 +320,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -329,7 +329,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_trackers",
-    "target": "DIRECT",
+    "target": "🎯 自定义-Tracker",
     "reason": "direct tracker/CDN domain"
   },
   {
@@ -338,7 +338,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-Adult",
     "reason": "adult/media domain"
   },
   {
@@ -347,7 +347,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_dev",
-    "target": "👨🏿‍💻 GitHub",
+    "target": "🎯 自定义-开发",
     "reason": "developer/infrastructure domain"
   },
   {
@@ -356,7 +356,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_media",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-媒体",
     "reason": "media resource domain"
   },
   {
@@ -365,7 +365,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_media",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-媒体",
     "reason": "media resource domain"
   },
   {
@@ -374,7 +374,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_media",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-媒体",
     "reason": "media resource domain"
   },
   {
@@ -383,7 +383,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_misc",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-杂项",
     "reason": "misc proxy domain"
   },
   {
@@ -392,7 +392,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_loc_sites",
-    "target": "loc",
+    "target": "🎯 自定义-loc站点",
     "reason": "manual loc domain"
   },
   {
@@ -401,7 +401,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_dev",
-    "target": "👨🏿‍💻 GitHub",
+    "target": "🎯 自定义-开发",
     "reason": "developer/infrastructure domain"
   },
   {
@@ -410,7 +410,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_dev",
-    "target": "👨🏿‍💻 GitHub",
+    "target": "🎯 自定义-开发",
     "reason": "developer/infrastructure domain"
   },
   {
@@ -419,7 +419,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_dev",
-    "target": "👨🏿‍💻 GitHub",
+    "target": "🎯 自定义-开发",
     "reason": "developer/infrastructure domain"
   },
   {
@@ -428,7 +428,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_media",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-媒体",
     "reason": "media resource domain"
   },
   {
@@ -437,7 +437,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_dev",
-    "target": "👨🏿‍💻 GitHub",
+    "target": "🎯 自定义-开发",
     "reason": "developer/infrastructure domain"
   },
   {
@@ -446,7 +446,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_dev",
-    "target": "👨🏿‍💻 GitHub",
+    "target": "🎯 自定义-开发",
     "reason": "developer/infrastructure domain"
   },
   {
@@ -455,7 +455,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-Adult",
     "reason": "adult/media domain"
   },
   {
@@ -464,7 +464,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-Adult",
     "reason": "adult/media domain"
   },
   {
@@ -473,7 +473,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_dev",
-    "target": "👨🏿‍💻 GitHub",
+    "target": "🎯 自定义-开发",
     "reason": "developer/infrastructure domain"
   },
   {
@@ -482,7 +482,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-Adult",
     "reason": "adult/media domain"
   },
   {
@@ -491,7 +491,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-Adult",
     "reason": "adult/media domain"
   },
   {
@@ -500,7 +500,7 @@
     "node": "loc",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-Adult",
     "reason": "adult/media domain"
   },
   {
@@ -509,7 +509,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_dev",
-    "target": "👨🏿‍💻 GitHub",
+    "target": "🎯 自定义-开发",
     "reason": "developer/infrastructure domain"
   },
   {
@@ -518,7 +518,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-Adult",
     "reason": "adult/media domain"
   },
   {
@@ -527,7 +527,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-Adult",
     "reason": "adult/media domain"
   },
   {
@@ -536,7 +536,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-Adult",
     "reason": "adult/media domain"
   },
   {
@@ -545,7 +545,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_adult",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-Adult",
     "reason": "adult/media domain"
   },
   {
@@ -554,7 +554,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_misc",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-杂项",
     "reason": "misc proxy domain"
   },
   {
@@ -563,7 +563,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_misc",
-    "target": "🚀 默认代理",
+    "target": "🎯 自定义-杂项",
     "reason": "misc proxy domain"
   },
   {
@@ -572,7 +572,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_ai",
-    "target": "🤖 ChatGPT",
+    "target": "🎯 自定义-AI",
     "reason": "AI/model domain"
   },
   {
@@ -581,7 +581,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_ai",
-    "target": "🤖 ChatGPT",
+    "target": "🎯 自定义-AI",
     "reason": "AI/model domain"
   },
   {
@@ -590,7 +590,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_ai",
-    "target": "🤖 ChatGPT",
+    "target": "🎯 自定义-AI",
     "reason": "AI/model domain"
   },
   {
@@ -599,7 +599,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_ai",
-    "target": "🤖 ChatGPT",
+    "target": "🎯 自定义-AI",
     "reason": "AI/model domain"
   },
   {
@@ -608,7 +608,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_ai",
-    "target": "🤖 ChatGPT",
+    "target": "🎯 自定义-AI",
     "reason": "AI/model domain"
   },
   {
@@ -617,7 +617,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "💶 PayPal",
+    "target": "🎯 自定义-支付",
     "reason": "payment/API domain"
   },
   {
@@ -626,7 +626,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "💶 PayPal",
+    "target": "🎯 自定义-支付",
     "reason": "payment/API domain"
   },
   {
@@ -635,7 +635,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "💶 PayPal",
+    "target": "🎯 自定义-支付",
     "reason": "payment/API domain"
   },
   {
@@ -644,7 +644,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "💶 PayPal",
+    "target": "🎯 自定义-支付",
     "reason": "payment/API domain"
   },
   {
@@ -653,7 +653,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "💶 PayPal",
+    "target": "🎯 自定义-支付",
     "reason": "payment/API domain"
   },
   {
@@ -662,7 +662,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_payments",
-    "target": "DIRECT",
+    "target": "🎯 自定义-直连支付",
     "reason": "direct payment domain"
   },
   {
@@ -671,7 +671,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_payments",
-    "target": "DIRECT",
+    "target": "🎯 自定义-直连支付",
     "reason": "direct payment domain"
   },
   {
@@ -680,7 +680,7 @@
     "node": "DIRECT",
     "no_resolve": "0",
     "category": "custom_direct_payments",
-    "target": "DIRECT",
+    "target": "🎯 自定义-直连支付",
     "reason": "direct payment domain"
   },
   {
@@ -689,7 +689,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "💶 PayPal",
+    "target": "🎯 自定义-支付",
     "reason": "payment/API domain"
   },
   {
@@ -698,7 +698,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "💶 PayPal",
+    "target": "🎯 自定义-支付",
     "reason": "payment/API domain"
   },
   {
@@ -707,7 +707,7 @@
     "node": "🌐 全部节点",
     "no_resolve": "0",
     "category": "custom_proxy_payments",
-    "target": "💶 PayPal",
+    "target": "🎯 自定义-支付",
     "reason": "payment/API domain"
   }
 ]
