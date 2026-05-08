@@ -1,0 +1,232 @@
+[
+  {
+    "name": "fakeipfilter_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/wwqgtxx/clash-rules/release/fakeip-filter.mrs",
+    "repo_path": "rules/upstream/domain/fakeipfilter_domain.mrs",
+    "download_ok": true,
+    "bytes": 1071,
+    "error": ""
+  },
+  {
+    "name": "private_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs",
+    "repo_path": "rules/upstream/domain/private_domain.mrs",
+    "download_ok": true,
+    "bytes": 742,
+    "error": ""
+  },
+  {
+    "name": "proxylite",
+    "behavior": "classical",
+    "format": "text",
+    "upstream_url": "https://raw.githubusercontent.com/qichiyuhub/rule/main/rules/proxy.list",
+    "repo_path": "rules/upstream/classical/proxylite.list",
+    "download_ok": true,
+    "bytes": 680,
+    "error": ""
+  },
+  {
+    "name": "ai",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.mrs",
+    "repo_path": "rules/upstream/domain/ai.mrs",
+    "download_ok": true,
+    "bytes": 1697,
+    "error": ""
+  },
+  {
+    "name": "youtube_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.mrs",
+    "repo_path": "rules/upstream/domain/youtube_domain.mrs",
+    "download_ok": true,
+    "bytes": 1366,
+    "error": ""
+  },
+  {
+    "name": "google_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.mrs",
+    "repo_path": "rules/upstream/domain/google_domain.mrs",
+    "download_ok": true,
+    "bytes": 9168,
+    "error": ""
+  },
+  {
+    "name": "github_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.mrs",
+    "repo_path": "rules/upstream/domain/github_domain.mrs",
+    "download_ok": true,
+    "bytes": 805,
+    "error": ""
+  },
+  {
+    "name": "telegram_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.mrs",
+    "repo_path": "rules/upstream/domain/telegram_domain.mrs",
+    "download_ok": true,
+    "bytes": 275,
+    "error": ""
+  },
+  {
+    "name": "netflix_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.mrs",
+    "repo_path": "rules/upstream/domain/netflix_domain.mrs",
+    "download_ok": true,
+    "bytes": 292,
+    "error": ""
+  },
+  {
+    "name": "paypal_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/paypal.mrs",
+    "repo_path": "rules/upstream/domain/paypal_domain.mrs",
+    "download_ok": true,
+    "bytes": 2660,
+    "error": ""
+  },
+  {
+    "name": "onedrive_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/onedrive.mrs",
+    "repo_path": "rules/upstream/domain/onedrive_domain.mrs",
+    "download_ok": true,
+    "bytes": 288,
+    "error": ""
+  },
+  {
+    "name": "microsoft_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.mrs",
+    "repo_path": "rules/upstream/domain/microsoft_domain.mrs",
+    "download_ok": true,
+    "bytes": 7468,
+    "error": ""
+  },
+  {
+    "name": "apple_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.mrs",
+    "repo_path": "rules/upstream/domain/apple_domain.mrs",
+    "download_ok": true,
+    "bytes": 17789,
+    "error": ""
+  },
+  {
+    "name": "speedtest_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ookla-speedtest.mrs",
+    "repo_path": "rules/upstream/domain/speedtest_domain.mrs",
+    "download_ok": true,
+    "bytes": 249,
+    "error": ""
+  },
+  {
+    "name": "tiktok_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.mrs",
+    "repo_path": "rules/upstream/domain/tiktok_domain.mrs",
+    "download_ok": true,
+    "bytes": 500,
+    "error": ""
+  },
+  {
+    "name": "geolocation-!cn",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.mrs",
+    "repo_path": "rules/upstream/domain/geolocation-!cn.mrs",
+    "download_ok": true,
+    "bytes": 192188,
+    "error": ""
+  },
+  {
+    "name": "cn_domain",
+    "behavior": "domain",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs",
+    "repo_path": "rules/upstream/domain/cn_domain.mrs",
+    "download_ok": true,
+    "bytes": 554629,
+    "error": ""
+  },
+  {
+    "name": "private_ip",
+    "behavior": "ipcidr",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.mrs",
+    "repo_path": "rules/upstream/ip/private_ip.mrs",
+    "download_ok": true,
+    "bytes": 155,
+    "error": ""
+  },
+  {
+    "name": "cn_ip",
+    "behavior": "ipcidr",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs",
+    "repo_path": "rules/upstream/ip/cn_ip.mrs",
+    "download_ok": true,
+    "bytes": 36460,
+    "error": ""
+  },
+  {
+    "name": "google_ip",
+    "behavior": "ipcidr",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/google.mrs",
+    "repo_path": "rules/upstream/ip/google_ip.mrs",
+    "download_ok": true,
+    "bytes": 6841,
+    "error": ""
+  },
+  {
+    "name": "telegram_ip",
+    "behavior": "ipcidr",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.mrs",
+    "repo_path": "rules/upstream/ip/telegram_ip.mrs",
+    "download_ok": true,
+    "bytes": 145,
+    "error": ""
+  },
+  {
+    "name": "netflix_ip",
+    "behavior": "ipcidr",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.mrs",
+    "repo_path": "rules/upstream/ip/netflix_ip.mrs",
+    "download_ok": true,
+    "bytes": 281,
+    "error": ""
+  },
+  {
+    "name": "apple_ip",
+    "behavior": "ipcidr",
+    "format": "mrs",
+    "upstream_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/apple.mrs",
+    "repo_path": "rules/upstream/ip/apple_ip.mrs",
+    "download_ok": true,
+    "bytes": 131,
+    "error": ""
+  }
+]

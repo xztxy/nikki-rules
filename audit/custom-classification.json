@@ -1,0 +1,713 @@
+[
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "wowza-rr-vod",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_loc_hk_media",
+    "target": "loc",
+    "reason": "HK/TVB media"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "mytvsuper",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_loc_hk_media",
+    "target": "loc",
+    "reason": "HK/TVB media"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "img.tvb",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_loc_hk_media",
+    "target": "loc",
+    "reason": "HK/TVB media"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "wv.drm.tvb.com",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_loc_hk_media",
+    "target": "loc",
+    "reason": "HK/TVB media"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "edgeware",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_loc_hk_media",
+    "target": "loc",
+    "reason": "HK/TVB media"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "discord",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_proxy_misc",
+    "target": "🌐 全部节点",
+    "reason": "social/messaging by domain"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "agsvpt.trackers.work",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker.hhan.club",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "tracker.leaves.red",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "star-space.net",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker.cinefiles.info",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker2.leaves.red",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "solo.trae.ai",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_ai",
+    "target": "🤖 ChatGPT",
+    "reason": "AI/model tooling"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "hero-sms.com",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_loc_sites",
+    "target": "loc",
+    "reason": "manual loc"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker.tleechreload.org",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker.ptchdbits.co",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker01.ilovelemonhd.me",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker.hhanclub.top",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker.rainbowisland.co",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker.zhuque.in",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker.azusa.wiki",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker.m-team.io",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker3.leaves.red",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "zou666",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_loc_sites",
+    "target": "loc",
+    "reason": "manual loc"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "whatsapp",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_misc",
+    "target": "🌐 全部节点",
+    "reason": "misc proxy"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "huggingface",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_proxy_ai",
+    "target": "🤖 ChatGPT",
+    "reason": "AI/model tooling by domain"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "comfyworkflows",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_ai",
+    "target": "🤖 ChatGPT",
+    "reason": "AI/model tooling"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "hhanclub.top",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_loc_sites",
+    "target": "loc",
+    "reason": "manual loc"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "chdbits.xyz",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_loc_sites",
+    "target": "loc",
+    "reason": "manual loc"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "civitai",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_proxy_ai",
+    "target": "🤖 ChatGPT",
+    "reason": "AI/model tooling by domain"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "ollama",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_ai",
+    "target": "🤖 ChatGPT",
+    "reason": "AI/model tooling"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "pytorch",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_ai",
+    "target": "🤖 ChatGPT",
+    "reason": "AI/model tooling"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "comfyworkflows",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_ai",
+    "target": "🤖 ChatGPT",
+    "reason": "AI/model tooling"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "linux.do",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_dev",
+    "target": "👨🏿‍💻 GitHub",
+    "reason": "dev/infrastructure"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "cloudflare",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_dev",
+    "target": "👨🏿‍💻 GitHub",
+    "reason": "dev/infrastructure"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "tracker.trackerfile.com",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "valipl10.cp31.ott.cibntv.net",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_trackers",
+    "target": "DIRECT",
+    "reason": "direct tracker/CDN"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "fansly",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_proxy_adult",
+    "target": "🌐 全部节点",
+    "reason": "adult/media by domain"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "drivers.amd.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_dev",
+    "target": "👨🏿‍💻 GitHub",
+    "reason": "dev/infrastructure"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "thetvdb",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_media",
+    "target": "🌐 全部节点",
+    "reason": "media resource"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "themoviedb",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_media",
+    "target": "🌐 全部节点",
+    "reason": "media resource"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "u2.dmhy.org",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_media",
+    "target": "🌐 全部节点",
+    "reason": "media resource"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "star-space.net",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_misc",
+    "target": "🌐 全部节点",
+    "reason": "misc proxy"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "www.torrentleech.org",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_loc_sites",
+    "target": "loc",
+    "reason": "manual loc"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "pypi.org",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_dev",
+    "target": "👨🏿‍💻 GitHub",
+    "reason": "dev/infrastructure"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "docker.io",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_dev",
+    "target": "👨🏿‍💻 GitHub",
+    "reason": "dev/infrastructure"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "hub.docker.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_dev",
+    "target": "👨🏿‍💻 GitHub",
+    "reason": "dev/infrastructure"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "wallhaven",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_media",
+    "target": "🌐 全部节点",
+    "reason": "media resource"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "git.openwrt.org",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_dev",
+    "target": "👨🏿‍💻 GitHub",
+    "reason": "dev/infrastructure"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "drivers.amd.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_dev",
+    "target": "👨🏿‍💻 GitHub",
+    "reason": "dev/infrastructure"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "projectjav",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_adult",
+    "target": "🌐 全部节点",
+    "reason": "adult/media"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "javmenu",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_adult",
+    "target": "🌐 全部节点",
+    "reason": "adult/media"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "lsposed",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_dev",
+    "target": "👨🏿‍💻 GitHub",
+    "reason": "dev/infrastructure"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "javmenu",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_adult",
+    "target": "🌐 全部节点",
+    "reason": "adult/media"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "e-hentai.org",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_proxy_adult",
+    "target": "🌐 全部节点",
+    "reason": "adult/media by domain"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "hentai.org",
+    "node": "loc",
+    "no_resolve": "0",
+    "category": "custom_proxy_adult",
+    "target": "🌐 全部节点",
+    "reason": "adult/media by domain"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "brave.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_dev",
+    "target": "👨🏿‍💻 GitHub",
+    "reason": "dev/infrastructure"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "jday.tv",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_adult",
+    "target": "🌐 全部节点",
+    "reason": "adult/media"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "sox.click",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_adult",
+    "target": "🌐 全部节点",
+    "reason": "adult/media"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "madouqu.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_adult",
+    "target": "🌐 全部节点",
+    "reason": "adult/media"
+  },
+  {
+    "type": "DOMAIN-KEYWORD",
+    "matcher": "missav.ws",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_adult",
+    "target": "🌐 全部节点",
+    "reason": "adult/media"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "api.ipify.org",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_misc",
+    "target": "🌐 全部节点",
+    "reason": "misc proxy"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "ip-api.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_misc",
+    "target": "🌐 全部节点",
+    "reason": "misc proxy"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "chatgpt.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_ai",
+    "target": "🤖 ChatGPT",
+    "reason": "AI/model tooling"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "chat.openai.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_ai",
+    "target": "🤖 ChatGPT",
+    "reason": "AI/model tooling"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "auth.openai.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_ai",
+    "target": "🤖 ChatGPT",
+    "reason": "AI/model tooling"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "auth0.openai.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_ai",
+    "target": "🤖 ChatGPT",
+    "reason": "AI/model tooling"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "api.openai.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_ai",
+    "target": "🤖 ChatGPT",
+    "reason": "AI/model tooling"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "checkout.stripe.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_payments",
+    "target": "🌐 全部节点",
+    "reason": "overseas payment/API"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "api.stripe.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_payments",
+    "target": "🌐 全部节点",
+    "reason": "overseas payment/API"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "js.stripe.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_payments",
+    "target": "🌐 全部节点",
+    "reason": "overseas payment/API"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "m.stripe.network",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_payments",
+    "target": "🌐 全部节点",
+    "reason": "overseas payment/API"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "q.stripe.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_payments",
+    "target": "🌐 全部节点",
+    "reason": "overseas payment/API"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "midtrans.com",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_payments",
+    "target": "DIRECT",
+    "reason": "direct payment"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "api.midtrans.com",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_payments",
+    "target": "DIRECT",
+    "reason": "direct payment"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "app.midtrans.com",
+    "node": "DIRECT",
+    "no_resolve": "0",
+    "category": "custom_direct_payments",
+    "target": "DIRECT",
+    "reason": "direct payment"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "gopay.co.id",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_payments",
+    "target": "🌐 全部节点",
+    "reason": "overseas payment/API"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "gojekapi.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_payments",
+    "target": "🌐 全部节点",
+    "reason": "overseas payment/API"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "go-jek.com",
+    "node": "🌐 全部节点",
+    "no_resolve": "0",
+    "category": "custom_proxy_payments",
+    "target": "🌐 全部节点",
+    "reason": "overseas payment/API"
+  }
+]

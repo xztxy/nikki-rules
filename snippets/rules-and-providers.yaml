@@ -1,0 +1,72 @@
+rules:
+  - RULE-SET,private_ip,直连,no-resolve
+  - RULE-SET,private_domain,直连
+  - RULE-SET,custom_direct_trackers,DIRECT
+  - RULE-SET,custom_direct_payments,DIRECT
+  - RULE-SET,custom_loc_hk_media,loc
+  - RULE-SET,custom_loc_sites,loc
+  - DOMAIN-SUFFIX,qichiyu.com,🚀 默认代理
+  - RULE-SET,proxylite,🚀 默认代理
+  - RULE-SET,custom_proxy_ai,🤖 ChatGPT
+  - RULE-SET,custom_proxy_dev,👨🏿‍💻 GitHub
+  - RULE-SET,custom_proxy_media,🌐 全部节点
+  - RULE-SET,custom_proxy_adult,🌐 全部节点
+  - RULE-SET,custom_proxy_payments,🌐 全部节点
+  - RULE-SET,custom_proxy_misc,🌐 全部节点
+  - RULE-SET,ai,🤖 ChatGPT
+  - RULE-SET,github_domain,👨🏿‍💻 GitHub
+  - RULE-SET,youtube_domain,📹 YouTube
+  - RULE-SET,google_domain,🍀 Google
+  - RULE-SET,onedrive_domain,🐬 OneDrive
+  - RULE-SET,microsoft_domain,🪟 Microsoft
+  - RULE-SET,apple_domain,直连
+  - RULE-SET,tiktok_domain,🎵 TikTok
+  - RULE-SET,telegram_domain,📲 Telegram
+  - RULE-SET,netflix_domain,🎥 NETFLIX
+  - RULE-SET,paypal_domain,💶 PayPal
+  - RULE-SET,apple_ip,直连
+  - RULE-SET,google_ip,🍀 Google
+  - RULE-SET,netflix_ip,🎥 NETFLIX
+  - RULE-SET,telegram_ip,📲 Telegram
+  - RULE-SET,geolocation-!cn,🚀 默认代理
+  - RULE-SET,cn_domain,直连
+  - RULE-SET,cn_ip,直连
+  - MATCH,🐟 漏网之鱼
+rule-anchor:
+  ip: &ip {type: http, interval: 86400, behavior: ipcidr, format: mrs}
+  domain: &domain {type: http, interval: 86400, behavior: domain, format: mrs}
+  class: &class {type: http, interval: 86400, behavior: classical, format: text}
+rule-providers:
+  fakeipfilter_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/fakeipfilter_domain.mrs" }
+  private_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/private_domain.mrs" }
+  proxylite: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/classical/proxylite.list" }
+  ai: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/ai.mrs" }
+  youtube_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/youtube_domain.mrs" }
+  google_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/google_domain.mrs" }
+  github_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/github_domain.mrs" }
+  telegram_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/telegram_domain.mrs" }
+  netflix_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/netflix_domain.mrs" }
+  paypal_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/paypal_domain.mrs" }
+  onedrive_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/onedrive_domain.mrs" }
+  microsoft_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/microsoft_domain.mrs" }
+  apple_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/apple_domain.mrs" }
+  speedtest_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/speedtest_domain.mrs" }
+  tiktok_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/tiktok_domain.mrs" }
+  geolocation-!cn: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/geolocation-!cn.mrs" }
+  cn_domain: { <<: *domain, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/domain/cn_domain.mrs" }
+  private_ip: { <<: *ip, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/ip/private_ip.mrs" }
+  cn_ip: { <<: *ip, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/ip/cn_ip.mrs" }
+  google_ip: { <<: *ip, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/ip/google_ip.mrs" }
+  telegram_ip: { <<: *ip, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/ip/telegram_ip.mrs" }
+  netflix_ip: { <<: *ip, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/ip/netflix_ip.mrs" }
+  apple_ip: { <<: *ip, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/ip/apple_ip.mrs" }
+  custom_direct_trackers: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/direct/trackers.list" }
+  custom_direct_payments: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/direct/payments.list" }
+  custom_loc_hk_media: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/loc/hk-media.list" }
+  custom_loc_sites: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/loc/sites.list" }
+  custom_proxy_ai: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/proxy/ai.list" }
+  custom_proxy_dev: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/proxy/dev.list" }
+  custom_proxy_media: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/proxy/media.list" }
+  custom_proxy_adult: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/proxy/adult.list" }
+  custom_proxy_payments: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/proxy/payments.list" }
+  custom_proxy_misc: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/proxy/misc.list" }
