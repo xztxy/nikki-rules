@@ -709,5 +709,41 @@
     "category": "custom_proxy_payments",
     "target": "🎯 自定义-支付",
     "reason": "payment/API domain"
+  },
+  {
+    "type": "DOMAIN-SUFFIX",
+    "matcher": "midtrans.com",
+    "node": "GLOBAL",
+    "no_resolve": "0",
+    "category": "custom_direct_payments",
+    "target": "?? ???-????",
+    "reason": "payment suffix added from router UCI"
+  },
+  {
+    "type": "DOMAIN-SUFFIX",
+    "matcher": "gopayapi.com",
+    "node": "?? ???-????",
+    "no_resolve": "0",
+    "category": "custom_direct_payments",
+    "target": "?? ???-????",
+    "reason": "direct payment rule from router UCI"
+  },
+  {
+    "type": "DOMAIN-SUFFIX",
+    "matcher": "stripe.com",
+    "node": "?? ???-????",
+    "no_resolve": "0",
+    "category": "custom_direct_payments",
+    "target": "?? ???-????",
+    "reason": "direct payment rule from router UCI"
+  },
+  {
+    "type": "DOMAIN",
+    "matcher": "pay.openai.com",
+    "node": "?? ???-????",
+    "no_resolve": "0",
+    "category": "custom_direct_payments",
+    "target": "?? ???-????",
+    "reason": "direct payment rule from router UCI"
   }
 ]

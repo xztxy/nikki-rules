@@ -19,6 +19,7 @@ proxy-groups:
   - 🇯🇵 日本节点
   - 🇸🇬 狮城节点
   - 🇺🇲 美国节点
+  include-all: true
 - name: 🎯 自定义-直连支付
   type: select
   proxies:
@@ -40,6 +41,7 @@ proxy-groups:
   - 🇸🇬 狮城节点
   - 🇺🇲 美国节点
   - loc
+  include-all: true
 - name: 🎯 自定义-HK媒体
   type: select
   proxies:
@@ -60,6 +62,7 @@ proxy-groups:
   - 🇸🇬 狮城节点
   - 🇺🇲 美国节点
   - 直连
+  include-all: true
 - name: 🎯 自定义-loc站点
   type: select
   proxies:
@@ -80,6 +83,7 @@ proxy-groups:
   - 🇸🇬 狮城节点
   - 🇺🇲 美国节点
   - 直连
+  include-all: true
 - name: 🎯 自定义-AI
   type: select
   proxies:
@@ -101,6 +105,7 @@ proxy-groups:
   - 🇺🇲 美国节点
   - 直连
   - loc
+  include-all: true
 - name: 🎯 自定义-开发
   type: select
   proxies:
@@ -122,6 +127,7 @@ proxy-groups:
   - 🇺🇲 美国节点
   - 直连
   - loc
+  include-all: true
 - name: 🎯 自定义-媒体
   type: select
   proxies:
@@ -143,6 +149,7 @@ proxy-groups:
   - 🇺🇲 美国节点
   - 直连
   - loc
+  include-all: true
 - name: 🎯 自定义-Adult
   type: select
   proxies:
@@ -163,6 +170,7 @@ proxy-groups:
   - 🇺🇲 美国节点
   - 直连
   - loc
+  include-all: true
 - name: 🎯 自定义-支付
   type: select
   proxies:
@@ -184,6 +192,7 @@ proxy-groups:
   - 🇸🇬 狮城节点
   - 🇺🇲 美国节点
   - loc
+  include-all: true
 - name: 🎯 自定义-社交
   type: select
   proxies:
@@ -205,6 +214,7 @@ proxy-groups:
   - 🇺🇲 美国节点
   - 直连
   - loc
+  include-all: true
 - name: 🎯 自定义-杂项
   type: select
   proxies:
@@ -225,3 +235,4 @@ proxy-groups:
   - 🇺🇲 美国节点
   - 直连
   - loc
+  include-all: true

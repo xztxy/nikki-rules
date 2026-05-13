@@ -1,3 +1,7 @@
 DOMAIN,midtrans.com
+DOMAIN-SUFFIX,midtrans.com
 DOMAIN,api.midtrans.com
 DOMAIN,app.midtrans.com
+DOMAIN-SUFFIX,gopayapi.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN,pay.openai.com
