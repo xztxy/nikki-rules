@@ -2,6 +2,7 @@ rules:
   - RULE-SET,private_ip,直连,no-resolve
   - RULE-SET,private_domain,直连
   - RULE-SET,custom_direct_trackers,🎯 自定义-Tracker
+  - RULE-SET,custom_direct_trackers_ip,🎯 自定义-Tracker
   - RULE-SET,custom_direct_payments,🎯 自定义-直连支付
   - RULE-SET,custom_loc_hk_media,🎯 自定义-HK媒体
   - RULE-SET,custom_loc_sites,🎯 自定义-loc站点
@@ -62,6 +63,7 @@ rule-providers:
   netflix_ip: { <<: *ip, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/ip/netflix_ip.mrs" }
   apple_ip: { <<: *ip, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/upstream/ip/apple_ip.mrs" }
   custom_direct_trackers: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/direct/trackers.list" }
+  custom_direct_trackers_ip: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/direct/trackers-ip.list" }
   custom_direct_payments: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/direct/payments.list" }
   custom_loc_hk_media: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/loc/hk-media.list" }
   custom_loc_sites: { <<: *class, url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/loc/sites.list" }

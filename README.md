@@ -8,6 +8,7 @@
 - `rules/upstream/ip/`: 原 profile 里的上游 ipcidr `.mrs` 规则镜像。
 - `rules/upstream/classical/`: 原 profile 里的上游 classical/text 规则镜像。
 - `rules/custom/direct/`: 你的自定义直连规则。
+- `rules/custom/direct/trackers-ip.list`: literal IP announce tracker，全网版直连清单。
 - `rules/custom/loc/`: 你的自定义 `loc` 节点规则。
 - `rules/custom/proxy/`: 你的自定义代理规则，按 AI、开发、媒体、支付、社交、成人内容和杂项拆分。
 - `rules/custom/round-robin/`: 需要节点轮询的可选域名规则。
@@ -19,6 +20,7 @@
 ## 自定义分类
 
 - `custom_direct_trackers`: PT/BT tracker 和需要直连的相关域名。
+- `custom_direct_trackers_ip`: literal IP announce tracker，全网命中 `🎯 自定义-Tracker`。
 - `custom_direct_payments`: 需要直连的支付网关。
 - `custom_loc_hk_media`: TVB / 香港媒体相关规则，走 `loc`。
 - `custom_loc_sites`: 其它手动指定走 `loc` 的站点。

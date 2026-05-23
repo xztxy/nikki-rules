@@ -34,6 +34,7 @@ rules/custom/round-robin/sites.list
 | 规则文件 | Provider | 配置里的规则 | 9090 面板组 | 用途 |
 |---|---|---|---|---|
 | `rules/custom/direct/trackers.list` | `custom_direct_trackers` | `RULE-SET,custom_direct_trackers,🎯 自定义-Tracker` | `🎯 自定义-Tracker` | PT/BT tracker、需要直连的 tracker/CDN |
+| `rules/custom/direct/trackers-ip.list` | `custom_direct_trackers_ip` | `RULE-SET,custom_direct_trackers_ip,🎯 自定义-Tracker` | `🎯 自定义-Tracker` | literal IP announce tracker，全网命中直连 |
 | `rules/custom/direct/payments.list` | `custom_direct_payments` | `RULE-SET,custom_direct_payments,🎯 自定义-直连支付` | `🎯 自定义-直连支付` | 明确需要直连的支付网关 |
 | `rules/custom/loc/hk-media.list` | `custom_loc_hk_media` | `RULE-SET,custom_loc_hk_media,🎯 自定义-HK媒体` | `🎯 自定义-HK媒体` | TVB、myTVSUPER、香港媒体 |
 | `rules/custom/loc/sites.list` | `custom_loc_sites` | `RULE-SET,custom_loc_sites,🎯 自定义-loc站点` | `🎯 自定义-loc站点` | 其它手动指定给 `loc` 的站点 |
@@ -80,6 +81,10 @@ DOMAIN-SUFFIX,nodejs.org
 # 新增 PT tracker
 rules/custom/direct/trackers.list
 DOMAIN,tracker.example.org
+
+# 新增 literal IP tracker
+rules/custom/direct/trackers-ip.list
+IP-CIDR,203.0.113.10/32,no-resolve
 ```
 
 ## 怎么让某一类默认走不同节点

@@ -1,0 +1,15 @@
+# 版本 A：全网版
+# 作用：任何设备命中这些 literal IP tracker，都进入同一个「🎯 自定义-Tracker」组
+# 用法：把这里的 rule-providers + rules 片段并入现有 profile
+# 建议插在现有 `RULE-SET,custom_direct_trackers` 后面
+
+rule-providers:
+  custom_direct_trackers_ip:
+    type: http
+    interval: 600
+    behavior: classical
+    format: text
+    url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/direct/trackers-ip.list"
+
+rules:
+  - RULE-SET,custom_direct_trackers_ip,🎯 自定义-Tracker
