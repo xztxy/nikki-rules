@@ -10,8 +10,10 @@
 - `rules/custom/direct/`: 你的自定义直连规则。
 - `rules/custom/loc/`: 你的自定义 `loc` 节点规则。
 - `rules/custom/proxy/`: 你的自定义代理规则，按 AI、开发、媒体、支付、社交、成人内容和杂项拆分。
+- `rules/custom/round-robin/`: 需要节点轮询的可选域名规则。
 - `snippets/rules-and-providers.yaml`: 可粘贴进 `Nikkinew.yaml` 的完整 `rules` + `rule-providers` 片段。
 - `snippets/custom-proxy-groups.yaml`: 自定义规则分类对应的可选策略组，会显示在 9090 UI 里。
+- `snippets/round-robin-mixin.yaml`: 可选的域名轮询 mixin 片段，直接贴进 `/etc/nikki/mixin.yaml`。
 - `audit/`: 本次整理的来源和分类审计。
 
 ## 自定义分类
@@ -27,6 +29,7 @@
 - `custom_proxy_payments`: 海外支付和 API，走 `💶 PayPal`。
 - `custom_proxy_social`: 社交和通讯站点，走 `🚀 默认代理`。
 - `custom_proxy_misc`: 其它手动代理规则，走 `🚀 默认代理`。
+- `custom_round_robin`: 需要按节点轮询的域名，走 `🎲 自定义-域名轮询`。
 
 ## 使用方式
 
@@ -34,6 +37,7 @@
 
 1. 把 `snippets/custom-proxy-groups.yaml` 里的自定义策略组加入原来的 `proxy-groups:`。
 2. 用 `snippets/rules-and-providers.yaml` 的内容替换原来的 `rules:`、`rule-anchor:`、`rule-providers:` 三段。
+3. 如果要启用域名轮询，把 `snippets/round-robin-mixin.yaml` 贴进 `/etc/nikki/mixin.yaml`，并把 `mixin_file_content` 设成 `1`。
 
 日常新增规则、分类对应关系和 9090 面板组说明见 [MAINTENANCE.md](MAINTENANCE.md)。
 

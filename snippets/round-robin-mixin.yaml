@@ -1,0 +1,63 @@
+# 直接贴进 /etc/nikki/mixin.yaml 的可选片段
+# 先把 UCI 里的 mixin_file_content 打开，再重载 Nikki
+
+rule-providers:
+  custom_round_robin:
+    type: http
+    interval: 600
+    behavior: classical
+    format: text
+    url: "https://raw.githubusercontent.com/xztxy/nikki-rules/main/rules/custom/round-robin/sites.list"
+
+nikki-proxy-groups:
+  - name: "🎲 自定义-域名轮询"
+    type: select
+    proxies:
+      - "🚀 默认代理"
+      - "🎲 轮询-全部"
+      - "🎲 轮询-亚洲"
+      - "🎲 轮询-美国"
+      - "🌐 全部节点"
+      - "直连"
+    include-all: true
+
+  - name: "🎲 轮询-全部"
+    type: load-balance
+    strategy: round-robin
+    url: "https://www.gstatic.com/generate_204"
+    interval: 300
+    lazy: false
+    use:
+      - Airport1
+      - Airport2
+      - Airport3
+    exclude-filter: "(?i)剩余|流量|套餐|到期|公告|说明|测试|直连|DIRECT"
+
+  - name: "🎲 轮询-亚洲"
+    type: load-balance
+    strategy: round-robin
+    url: "https://www.gstatic.com/generate_204"
+    interval: 300
+    lazy: false
+    use:
+      - Airport1
+      - Airport2
+      - Airport3
+    filter: "(?i)香港|HK|Hong Kong|日本|JP|Japan|狮城|SG|Singapore|台湾|TW|Taiwan|韩国|KR|Korea"
+    exclude-filter: "(?i)剩余|流量|套餐|到期|公告|说明|测试|直连|DIRECT"
+
+  - name: "🎲 轮询-美国"
+    type: load-balance
+    strategy: round-robin
+    url: "https://www.gstatic.com/generate_204"
+    interval: 300
+    lazy: false
+    use:
+      - Airport1
+      - Airport2
+      - Airport3
+    filter: "(?i)美国|US|United States|America|USA"
+    exclude-filter: "(?i)剩余|流量|套餐|到期|公告|说明|测试|直连|DIRECT"
+
+nikki-rules:
+  - RULE-SET,custom_round_robin,🎲 自定义-域名轮询

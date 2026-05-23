@@ -1,0 +1,9 @@
+# 需要走节点轮询的域名放这里
+# 默认留一个不会命中的占位，等于关闭
+DOMAIN,round-robin-disabled.invalid
+
+# 示例：
+# DOMAIN-SUFFIX,example.com
+# DOMAIN,api.example.org
+# IP-CIDR,1.2.3.4/32,no-resolve
+# IP-CIDR6,2001:db8::1234/128,no-resolve

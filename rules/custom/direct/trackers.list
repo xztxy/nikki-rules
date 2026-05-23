@@ -15,3 +15,15 @@ DOMAIN,tracker.m-team.io
 DOMAIN,tracker3.leaves.red
 DOMAIN,tracker.trackerfile.com
 DOMAIN,valipl10.cp31.ott.cibntv.net
+
+# NAS / qBittorrent / Transmission 常见 tracker
+# 如果遇到 literal IP announce，直接补 IP-CIDR / IP-CIDR6（no-resolve）
+DOMAIN,pt.btschool.club
+DOMAIN,ourbits.club
+DOMAIN,chdbits.xyz
+DOMAIN,tracker.pterclub.net
+DOMAIN,1ptba.com
+DOMAIN,on.springsunday.net
+DOMAIN,tracker.hdtime.org
+DOMAIN,ptsbao.club
+DOMAIN,tracker.hdarea.club
