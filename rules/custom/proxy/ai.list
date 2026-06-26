@@ -10,3 +10,13 @@ DOMAIN,chat.openai.com
 DOMAIN,auth.openai.com
 DOMAIN,auth0.openai.com
 DOMAIN,api.openai.com
+
+# --- Claude (Anthropic) ---
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.com
+# --- Google Gemini / AI Studio ---
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,makersuite.google.com
